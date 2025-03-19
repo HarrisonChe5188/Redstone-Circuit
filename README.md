@@ -1,4 +1,4 @@
-# Redstone-Circuit
+# Redstone-Rewired
 A passion project of bringing a Minecraft redstone circuit to life for Boston University's Lutron Lighting Innovation Competition. We also won first place!
 
 Project Overview
